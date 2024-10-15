@@ -16,7 +16,6 @@ import IconButton from "@material-ui/core/IconButton";
 import Visibility from "@material-ui/icons/Visibility";
 import VisibilityOff from "@material-ui/icons/VisibilityOff";
 import OutlinedInput from "@material-ui/core/OutlinedInput";
-//
 import personal_name from "../public/personal_name.png";
 
 import { setEmpInfo } from "../common/Global";
